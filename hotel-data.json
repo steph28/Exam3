@@ -1,0 +1,129 @@
+[{
+    "name": "Corinthia Hotel Budapest",
+    "stars": 5,
+    "description": "Hotel 5 étoiles de charmes (et oui nous sommes à Budapest !) ",
+    "photos": [
+        "/photos/hotel/corinthiahotelbudapest/1.jpg",
+        "/photos/hotel/corinthiahotelbudapest/2.jpg",
+        "/photos/hotel/corinthiahotelbudapest/3.jpg"
+    ],
+    "currency": "€",
+    "rooms": [{
+        "type": "Supérieur Double",
+        "number": 20,
+        "description": "Parfait pour dormir avec son anaconda",
+        "photos": [
+            "/photos/room/corinthiahotelbudapest/1.jpg",
+            "/photos/room/corinthiahotelbudapest/5.jpg"
+        ],
+        "price": 730
+    }, {
+        "type": "Chambre Double deluxe",
+        "number": 50,
+        "description": "il se dit que un maitre shaolin à dormis ici !",
+        "photos": [
+            "/photos/room/corinthiahotelbudapest/2.jpg",
+            "/photos/room/corinthiahotelbudapest/4.jpg"
+        ],
+        "price": 920
+    }, {
+        "type": "Chambre Double Luxe",
+        "number": 25,
+        "description": "Parfait pour vous reposez entre deux vols si vous êtes un homme d'affaire !",
+        "photos": [
+            "/photos/room/corinthiahotelbudapest/3.jpg",
+            "/photos/room/corinthiahotelbudapest/6.jpg"
+        ],
+        "price": 1120
+    }, {
+        "type": "Suite",
+        "number": 15,
+        "description": "Si vous êtes 3 ou plus ou que vous avez envie d'une chambre pour un film d'action cette chambre est pour vous",
+        "photos": [
+            "/photos/room/corinthiahotelbudapest/3.jpg",
+            "/photos/room/corinthiahotelbudapest/6.jpg"
+        ],
+        "price": 1200
+    }],
+    "reviews": [{
+        "name": "Blue l'oiseau",
+        "review": "Non mais c'est géniale, j'ai même eu le droit a ma vollière",
+        "rating": 4
+    }]
+}, {
+    "name": "Grand Hotel Palatino",
+    "stars": 4,
+    "description": "A 5 minutes du colisée, cette hotel vous ravieras si vous souhaitez visiter Rome et ses alentours.",
+    "photos": ["/photos/hotel/grandhotelpalatino/1.jpg", "/photos/hotel/grandhotelpalatino/2.jpg", "/photos/hotel/grandhotelpalatino/3.jpg"],
+    "currency": "€",
+    "rooms": [{
+        "type": "Standard Plus Double Room",
+        "number": 10,
+        "description": "These are small rooms",
+        "photos": ["/photos/room/grandhotelpalatino/2.jpg", "/photos/room/grandhotelpalatino/5.jpg"],
+        "price": 312.5
+    }, {
+        "type": "Executive Double Room",
+        "number": 25,
+        "description": "These are double rooms",
+        "photos": ["/photos/room/grandhotelpalatino/3.jpg", "/photos/room/grandhotelpalatino/2.jpg"],
+        "price": 322.5
+    }, {
+        "type": "Superior Double Room",
+        "number": 3,
+        "description": "Amazing suites",
+        "photos": ["/photos/room/grandhotelpalatino/1.jpg"],
+        "price": 352.5
+    }, {
+        "type": "Standard Plus Triple Room",
+        "number": 13,
+        "description": "Amazing suites",
+        "photos": ["/photos/room/grandhotelpalatino/3.jpg"],
+        "price": 452.5
+    }, {
+        "type": "Junior Suite",
+        "number": 13,
+        "description": "Very exclusive suites",
+        "photos": ["/photos/room/grandhotelpalatino/4.jpg"],
+        "price": 1400
+    }],
+    "reviews": [{
+        "name": "Mister Spleen",
+        "review": "Super hotel",
+        "rating": 4
+    }, {
+        "name": "Mathieu",
+        "review": "Une place géniale pour les pandas!",
+        "rating": 5
+    }]
+}, {
+    "name": "Hotel Dann Carlton Belfort Medellin",
+    "stars": 5,
+    "description": "Hotel en plein coeur de Belfort avec une magnifique vue et une piscine",
+    "photos": ["/photos/hotel/danncarltonbelfort/1.jpg", "/photos/hotel/danncarltonbelfort/2.jpg"],
+    "currency": "€",
+    "rooms": [{
+        "type": "Standard Single Room",
+        "number": 50,
+        "description": "These are small rooms",
+        "photos": ["/photos/room/hdanncarltonbelfort/2.jpg", "/photos/room/hoteldanncarltonbelfortmedellin/5.jpg"],
+        "price": 1000
+    }, {
+        "type": "Standard Double Room",
+        "number": 30,
+        "description": "These are double rooms",
+        "photos": ["/photos/room/danncarltonbelfort/4.jpg", "/photos/room/hoteldanncarltonbelfortmedellin/3.jpg"],
+        "price": 1200
+    }, {
+        "type": "Suite",
+        "number": 10,
+        "description": "Amazing double rooms",
+        "photos": ["/photos/room/danncarltonbelfort/1.jpg"],
+        "price": 2500
+    }],
+    "reviews": [{
+        "name": "Gandalf",
+        "review": "J'ai essayé de rentrer mais un vigile ma dit : vous ne passerez pas !",
+        "rating": 2
+    }],
+}]
