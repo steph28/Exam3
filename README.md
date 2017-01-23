@@ -16,10 +16,10 @@ Vous devrez :
 ---
 ### Front 
 
-- Utilisation de boostrap ou materialize (attention pour materialize et angular)
+- Utilisation de boostrap ou materialize (attention pour materialize et angular : utiliser en plus angular-materialize)
 - Utilisation de NgRoute
 - Avoir un controller par page html
-- Faire une factory pour aller chercher les données des hotels (même si vous ne faite que du front)
+- Faire une factory pour aller chercher les données des hotels (même si vous ne faite que du front) (aller chercher le fichier json)
 - Bonus : Authentification
 ### Pour les personnes qui se sont focalisés sur le front vous pouvez faire que le front en angular.
 
