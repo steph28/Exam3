@@ -10,7 +10,7 @@ Vous devrez :
 - Intégrer les données déjà existante (hotel-data.json)
 - Réaliser le front du site web en angular
 - Réaliser le back du site web en Node/Express
-- Utiliser une bonne de donnée MongoDB
+- Utiliser une base de donnée MongoDB
 - Bonus : Faire l'authentification
 
 ---
